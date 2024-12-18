@@ -9,7 +9,7 @@ GITHUB_TOKEN = st.secrets["GITHUB_TOKEN"]
 g = Github(GITHUB_TOKEN)
 
 # Define repository and file paths
-REPO_NAME = "Abdullahshade/Misapplication"  # Replace with your GitHub repository name
+REPO_NAME = "Abdullahshade/lastAppAbdullah"  # Replace with your GitHub repository name
 FILE_PATH = "GT_Pneumothorax.csv"  # Path to metadata CSV in your GitHub repo
 repo = g.get_repo(REPO_NAME)
 
