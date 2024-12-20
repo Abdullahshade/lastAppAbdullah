@@ -4,7 +4,7 @@ Index,Image_Name,Pneumothorax_Type,A,B,C,Pneumothorax_Percentage,Label_Flag
 3,00014306_002.png,,,,,,
 4,00029943_004.png,Simple,2.0,3.0,0.0,27.7,
 5,00029532_007.png,,,,,,
-6,00022707_013.png,,,,,,
+6,00022707_013.png,Tension,0.0,0.0,0.0,4.2,1.0
 7,00028544_015.png,,,,,,
 8,00002143_000.png,,,,,,
 9,00003574_008.png,Simple,0.0,0.0,0.0,4.2,1.0
