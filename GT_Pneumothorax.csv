@@ -1,5 +1,5 @@
 Index,Image_Name,Pneumothorax_Type,A,B,C,Pneumothorax_Percentage,Label_Flag
-1,00004085_010.png,Simple,0.0,0.0,2.0,13.600000000000001,1.0
+1,00004085_010.png,Simple,0.0,0.0,2.0,13.6,1.0
 2,00008663_000.png,Tension,,,0.0,27.7,
 3,00014306_002.png,,,,,,
 4,00029943_004.png,Simple,2.0,3.0,0.0,27.7,
@@ -7,7 +7,7 @@ Index,Image_Name,Pneumothorax_Type,A,B,C,Pneumothorax_Percentage,Label_Flag
 6,00022707_013.png,,,,,,
 7,00028544_015.png,,,,,,
 8,00002143_000.png,,,,,,
-9,00003574_008.png,,,,,,
+9,00003574_008.png,Simple,0.0,0.0,0.0,4.2,1.0
 10,00008230_015.png,,,,,,
 11,00014143_001.png,,,,,,
 12,00025695_008.png,,,,,,
